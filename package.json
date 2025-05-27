@@ -13,8 +13,9 @@
     "react": "latest",
     "react-dom": "latest",
     "next-auth": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/react": "^18.0.0"
   }
-}"devDependencies": {
-  "typescript": "^5.0.0",
-  "@types/react": "^18.0.0"
 }
