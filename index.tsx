@@ -1,1 +1,5 @@
-export { default } from '../components/InterviewTranscription';
+import InterviewTranscription from "../InterviewTranscription";
+
+export default function Home() {
+  return <InterviewTranscription />;
+}
